@@ -1,4 +1,4 @@
-# Pruebasdel sitio Valorant Game
+# Prueba del sitio Valorant Game
 
 Para poder ver el avance del proyecto en vivo y las modificaciones, ingresa al siguiente link
 
